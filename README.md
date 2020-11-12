@@ -54,10 +54,10 @@
     <img src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" alt="git" width="40" height="40"/>
   </a>
   
-   <a href="#" target="_blank">
+   <a href="" target="_blank">
     <img src="https://c0.klipartz.com/pngpicture/188/673/sticker-png-cascading-style-sheets-css3-bootstrap-valid-blue-angle-text-rectangle-logo.png" alt="oracle" width="40" height="40"/>
   </a>
-   <a href="#" target="_blank">
+   <a href="" target="_blank">
     <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="oracle" width="40" height="40"/>
   </a>
   
