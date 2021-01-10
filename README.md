@@ -17,7 +17,7 @@
     <img src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" alt="springboot" width="40" height="40"/> 
   </a>
   <a href="https://developer.android.com" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" alt="android" width="40" height="40"/>
   </a>
   <a href="https://angular.io" target="_blank">
     <img src="https://sg.com.mx/sites/default/files/styles/570x500/public/images/angular-logo.png?itok=_4hR0cNu" alt="angular" width="40" height="40"/>
