@@ -1,9 +1,9 @@
-### Christian C. - Muldev 👋
+### Christian C. 👋
 
 - 🎓 Higher Technician in Multi-platform Applications Development / Técnico Superior en Desarrollo de Aplicaciones Multiplataforma 
-- 🌱 Constantly learning, nowadays learning about Software Architecture, design patterns and Front-End frameworks.
+- 🌱 Constantly learning, nowadays learning about Software Architecture, design patterns and distributed systems.
 - 💬 Spanish native and fluent in English
-- 📫 [Website](https://www.muldev.dev) / [contact@muldev.dev](mailto:contact@muldev.dev)
+- 📫 [Website](https://www.muldev.dev) / [contact@muldev.dev](mailto:carsinchristian@gmail.com)
 
 ## Techs 🛠️
 
